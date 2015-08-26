@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://rm.suning.com/rm/project/rm/images/icon_big.png</string>
+					<string>https://rm.suning.com/rm/project/rm-web/images/icon_big.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://rm.suning.com/rm/project/rm/images/icon.png</string>
+					<string>http://rm.suning.com/rm/project/rm-web/images/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
