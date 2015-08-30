@@ -35,13 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.KFARedMaster</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>KFARedMaster</string>
-				<key>subtitle</key>
-				<string>哈哈哈</string>
+				<string>红掌柜</string>
 			</dict>
 		</dict>
 	</array>
